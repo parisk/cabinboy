@@ -1,6 +1,6 @@
 # Cabin Boy
 
-![Travis CI Build Status](https://travis-ci.org/parisk/cabinboy.svg?branch=master)
+[![Build Status](https://travis-ci.org/parisk/cabinboy.svg?branch=master)](https://travis-ci.org/parisk/cabinboy)
 
 Cabin Boy lets you run tasks in your code base with astounding easiness.
 
