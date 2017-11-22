@@ -1,5 +1,7 @@
 # Cabin Boy
 
+![Travis CI Build Status](https://travis-ci.org/parisk/cabinboy.svg?branch=master)
+
 Cabin Boy lets you run tasks in your code base with astounding easiness.
 
 ## Usage
