@@ -1,0 +1,12 @@
+language: python
+os:
+  - linux
+  - osx
+python:
+  - 3.6
+before_install:
+  - pip install pipenv
+install: pipenv install
+notifications:
+  email: false
+script: python cb.py lint

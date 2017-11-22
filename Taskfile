@@ -1,2 +1,2 @@
 hello: echo "Hello, it's CabinBoy!"
-lint: flake8 cb.py
+lint: flake8
